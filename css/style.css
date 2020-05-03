@@ -467,7 +467,7 @@ a.read_more:hover {
 	
 
 .timeline{
-	padding:110px 0;
+	padding:50px 0;
 }
 .timeline h2{ 
 }
@@ -479,7 +479,7 @@ a.read_more:hover {
 ---------------------------------*/
 
 #service {
-    padding: 110px 0px;
+    padding: 50px 0px;
     background: #03A9F4;
 }
 #service h2{
@@ -487,7 +487,7 @@ a.read_more:hover {
 
 }
 .service_wrapper {
-    padding: 40px 0 40px;
+    padding: 15px 0 40px;
 }
 
 .service_section {
@@ -1034,7 +1034,7 @@ transition: all .3s;
 border: 1px solid #CE1139;
 }
 #aboutUs {
-    padding: 110px 0;
+    padding: 50px 0;
 }
 
 /* Contact
